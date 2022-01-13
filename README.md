@@ -4,7 +4,7 @@
 ## What Languages Did I Use?
 -HTML5 <br>
 -CSS<br>
--JAVASCRİPT<br>
+-JAVASCRIPT<br>
 
 ### HOMEPAGE 
 ![Homepage](/data-modules/homepage.PNG)
